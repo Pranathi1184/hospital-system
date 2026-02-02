@@ -1,1 +1,1 @@
-Main branch edit
+Conflict branch edit
